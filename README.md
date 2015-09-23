@@ -1,7 +1,7 @@
 # minecraft
 
 my minecraft server machine info
-
+OS: CentOS 7
 Cpu: Xeon X5355 @2.66 GHz (Dual)  
 Mem: 16GB  
   
